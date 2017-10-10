@@ -1,6 +1,6 @@
 /**
  * angular-brew-analytics - Angular BrewEngage Analytics - Easy tracking for your AngularJS application
- * @version v1.0.0
+ * @version v2.0.0
  * @link http://github.com/brewengage/angular-brew-analytics
  * @author Ravi Kannan <ravi@brewengage.com> (https://github.com/brewengage)
  * @contributors Julien Bouquillon (https://github.com/revolunet)

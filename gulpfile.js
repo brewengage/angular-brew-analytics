@@ -25,7 +25,7 @@ var banner = ['/**',
 var C_FNAME        = 'angular-brew-analytics';
 var C_FNAME_JS     = C_FNAME + '.js';
 var C_FNAME_JS_MIN = C_FNAME + '.min.js';
-var C_DIR_DIST     = './output/';
+var C_DIR_DIST     = './dist/';
 
 // define tasks
 gulp.task('concat', function () {

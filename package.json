@@ -1,7 +1,7 @@
 {
   "name": "angular-brew-analytics",
   "description": "Angular BrewEngage Analytics - Easy tracking for your AngularJS application",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "homepage": "http://github.com/brewengage/angular-brew-analytics",
   "author": "Ravi Kannan <ravi@brewengage.com> (https://github.com/brewengage)",
   "contributors": [

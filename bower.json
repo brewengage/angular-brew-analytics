@@ -1,0 +1,35 @@
+{
+  "authors": [
+    "Ravi Kannan <ravi@brewengage.com> (https://github.com/brewengage",
+    "Julien Bouquillon <julien@revolunet.com> (https://github.com/revolunet)",
+    "Justin Saunders (https://github.com/justinsa)",
+    "Chris Esplin (https://github.com/deltaepsilon)",
+    "Adam Misiorny (https://github.com/adam187)"
+  ],
+  "name": "angular-brew-analytics",
+  "description": "Easy Analytics for your AngularJS application",
+  "keywords": [
+    "analytics",
+    "angular",
+    "angularjs",
+    "angular-js",
+    "brew-analytics",
+    "brewengage-analytics",
+    "tracking",
+    "visitor-tracking"
+  ],
+  "homepage": "https://github.com/brewengage/angular-brew-analytics",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brewengage/angular-brew-analytics.git"
+  },
+  "main": "./dist/angular-brew-analytics.js",
+  "dependencies": {
+    "angular": ">=1"
+  },
+  "devDependencies": {
+    "angular-mocks": ">=1",
+    "angular-scenario": ">=1"
+  }
+}

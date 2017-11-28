@@ -552,7 +552,7 @@
                 h.parentNode.insertBefore(g, h);
 
                 // '//localhost:8888/brewanalytics/'
-              })(window, document, 'script', '//stageanalytics.iappbrew.com/', 'brewanalytics', 'brew');
+              })(window, document, 'script', 'domainName', 'brewanalytics', 'brew');
             } else {
               // Log the source location for validation
               that._log('inject', scriptSource);
